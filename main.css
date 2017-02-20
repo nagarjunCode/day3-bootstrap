@@ -1,0 +1,206 @@
+.bannerbutton {
+    float: left;
+    margin-left: 80px;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.bannersubtext {
+    margin-left: 80px;
+}
+
+.bannerlogo {
+    height: 80px;
+    width: 80px;
+    float: left;
+    margin-top: 10px;
+}
+
+.unparalled {
+    height: 220px;
+    width: 100%;
+    text-align: center;
+    overflow: contain;
+}
+
+    .content1 {
+        border-bottom: 1px solid black;
+        height: 220px;
+        width: 100%;
+        text-align: center;
+        overflow: contain;
+    }
+    .contents {
+        height: 220px;
+        width: 100%;
+        text-align: center;
+        overflow: contain;
+    }
+
+.content1a {
+    color: #bf5315;
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    margin-top: 20px;
+}
+
+.content1b {
+    text-align: center;
+    font-size: 24px;
+    font-family: arial;
+    padding: 20px 50px;
+    color: dimgray;
+}
+
+.content2 {
+    
+    height: 200px;
+    width: 100%;
+}
+
+.sc2img1 {
+    height: 200px;
+    background-size: contain;
+    width: 33%;
+    float: left;
+}
+
+.content2text {
+    color: white;
+    font-size: 40px;
+    padding: 80px;
+    font-family: arial;
+    text-align: center;
+}
+
+.sc2img2 {
+    height: 200px;
+    width: 33.3%;
+    background-image: url(images/img2.jpg);
+    float: left;
+}
+
+.sc2img3 {
+    height: 200px;
+    width: 33.3%;
+    background-image: url(images/img3.jpg);
+    float: left;
+}
+
+.content3 {
+    height: 500px;
+    border-bottom: 1px solid black;
+}
+
+.sc3text {
+    color: #bf5315;
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-top: 30px;
+}
+
+.image-desc {
+    overflow: contain;
+    font-family: arial;
+    color: dimgray;
+    padding-top: 15px;
+}
+
+.wcp-image-text {
+    color: #bf5315;
+    text-align: center;
+}
+
+.wcp-image-text-old-price {
+    font-family: arial;
+    font-size: 19px;
+}
+
+.wcp-image-text-price {
+    color: #bf5315;
+    font-family: arial;
+    font-size: 19px;
+}
+
+.cartbutton {
+    background-color: orange;
+    font-family: arial;
+    color: white;
+}
+
+.get-value-text {
+    margin-left: 5px;
+    width: 120px;
+    float: left;
+}
+
+.get-value-text2 {
+    margin-left: 5px;
+    width: 250px;
+    float: left;
+}
+
+.get-value-button {
+    float: left;
+}
+
+.get-value-button2 {
+    float: left;
+}
+
+.form-control {
+    border-radius: 4px 0px 0px 4px;
+}
+
+.btn {
+    border-radius: 0px 4px 4px 0px;
+}
+
+.upsimage {
+    margin-left: 30%;
+}
+
+.findus {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+.address {
+    font-family: arial;
+    color: gray;
+    text-align: center;
+    font-size: 20px;
+}
+
+.info-list {
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.info-list-item {
+    color: gray;
+    font-family: arial;
+}
+
+.info {
+    font-size: 20px;
+    color: black;
+    font-family: arial;
+}
+
+.contact {
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    overflow: contain;
+}
+
+.contact-text {
+    color: #bf5315;
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    margin-top: 15px;
+}
